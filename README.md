@@ -1,2 +1,3 @@
 # PacMan
-PacMan Web Game Dockerized
+
+PacMan Web Game Dockerized.
